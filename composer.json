@@ -1,5 +1,5 @@
 {
-    "name": "vagrant/composer-example-package",
+    "name": "bssat/composer-example-package",
     "description": "Example project",
     "type": "library",
     "require": {
